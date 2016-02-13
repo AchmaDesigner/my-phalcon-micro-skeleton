@@ -1,5 +1,5 @@
 {
-    "name": "phalcon/skeleton-micro",
+    "name": "caiofralmeida/my-phalcon-micro-skeleton",
     "description": "Skeleton Application for Phalcon Micro Framework",
     "keywords": ["framework", "phalcon", "micro"],
     "type": "project",
